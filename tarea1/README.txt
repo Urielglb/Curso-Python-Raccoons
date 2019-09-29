@@ -1,4 +1,2 @@
-Desde mi punto de vista la filosofía de Pyhton según el Zen de Pyhton es que no se debe de complicar excesivamente la programación, es mucho mejor tener una forma de trabajo,
-que sea estricta y a su vez que facilite todas las cosas, que el codigo sea facil de leer, que las cosas no se vuelvan mas dificiles de lo que debe ser, que aunque una solución este 
-bien hecha si no es comprensible no es una buena solución, no romper las reglas aun en casos que "parecería mas facil".
+Desde mi punto de vista la filosofía de Python según el Zen de Python es que no se debe de complicar excesivamente la programación, es mucho mejor tener una forma de trabajo,que sea estricta y a su vez que facilite todas las cosas, que el codigo sea facil de leer, que las cosas no se vuelvan mas dificiles de lo que debe ser, que aunque una solución esté bien hecha si no es comprensible no es una buena solución, no romper las reglas aun en casos que "parecería mas facil".
 En otras palabras, un trabajo, en este caso específico un programa bien implementado, no es el que hace solo lo que debería hacer, es el que lo hace y de la forma mas: legible,limpia y menos complicada. 
