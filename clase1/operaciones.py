@@ -1,115 +1,62 @@
-"""
-Suma
-"""
+#Suma
 print(2+3)
-"""
-Resta
-"""
+#Resta
 print(2-3)
-"""
-Multiplicación
-"""
+#Multiplicación
 print(3*2)
-"""
-División
-"""
+#División
 print(3/2)
-"""
-Division entera
-"""
+#Division entera
 print(3//2)
-"""
- Exponente
-"""
+#Exponente
 print(3**2)
-"""
-Módulo
-"""
+#Módulo
 print(3%2)
-
-"""
-Concatenación
-"""
+#Concatenación
 nombre = "Uriel"
 apellido = "García Luna"
 print(nombre + " " + apellido)
-"""
-Multiplicación
-"""
+#Multiplicación
 mensaje = "Hola"
 print(mensaje*3)
-"""
-Upper
-"""
+#Upper
 minusculas = "hola"
 print(minusculas.upper())
-"""
-Lower
-"""
+#Lower
 mayusculas = "HOLA"
 print(mayusculas.lower())
-"""
-Title
-"""
+#Title
 pelicula = "inglorious bastards"
 print(pelicula.title())
-"""
-Capitalize
-"""
+#Capitalize
 print(pelicula.capitalize())
-"""
-Strip
-"""
+#Strip
 mensaje = "       Hola"
 print(mensaje.strip())
-"""
-Strip izquierda
-"""
+#Strip izquierda
 print(mensaje.lstrip())
-"""
-Strip derecha
-"""
+#Strip derecha
 print(mensaje.rstrip())
-"""
-Mayor que
-"""
+#Mayor que
 print(9>9)
-"""
-Mayor o igual que
-"""
+#Mayor o igual que
 print(9>=9)
-"""
-Menor que 
-"""
+#Menor que 
 print(9<10)
-"""
-Menor o igual que
-"""
+#Menor o igual que
 print(10<=10)
-"""
-Igual
-"""
+#Igual
 print(14==15)
-"""
-Diferente
-"""
+#Diferente
 print(15!=16)
-"""
-Operador and 
-"""
+#Operador and 
 print(True and False)
-"""
-Operador or
-"""
+#Operador or
 print(True or False)
-"""
-Recibir una entrada del usuario
-"""
+#Recibir una entrada del usuario
 nombre = input("¿Como te llamas?")
 print("Hola "+nombre)
-"""
-Transformar el tipo de dato que se recibe en la entrada(es string)
-"""
+#Transformar el tipo de dato que se recibe en la entrada(es string)
 edad = input("¿Cuantos años tienes?")
 edad_aumentada = int(edad)+2
 print("Tu edad + 2 es "+ str(edad_aumentada))
