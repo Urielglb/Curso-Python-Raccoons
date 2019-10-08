@@ -19,12 +19,13 @@ print(actores[0])
 actores.insert(0,"Jaime Fox")#Agrega el elemento en el numero que le das 
 print(actores[0]+", "+actores[1])
 #Eliminando elemnetos de la lista
-musicos = ["José José","Juan Gabriel","Roger waters","Paul McCartney","David Bowie"]
+musicos = ["José José","Juan Gabriel","Roger Waters","Paul McCartney","David Bowie"]
 del musicos[1]#Elimina a Juan Gabriel de la lista
 star_man=musicos.pop()#Elimina el último elemento de la lista y te lo da
 print(star_man)
 el_principe = musicos.pop(0)#Elimina el elemento del numero que brindas de la lista y te lo da
 print(el_principe)
+musicos.remove("Roger Waters")#Elimina el elemento que recibe como parametro
 #Ordenar
 numeros = [5,4,3]
 numeros.sort()
