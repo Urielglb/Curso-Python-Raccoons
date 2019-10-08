@@ -14,5 +14,5 @@ personajes_originales = personajes_got.difference(personajes_lotr)
 print(personajes_originales)
 #Removiendo elementos
 personajes_got.remove("Jaime")#Si no encuentra el elemento manda error
-personajes_got.discard("Cersei")#Si no encuentra el elemento no pasa nada y el conjunto de queda igual
+personajes_got.discard("Cersei")#Si no encuentra el elemento no pasa nada y el conjunto se queda igual
 print(personajes_got)
